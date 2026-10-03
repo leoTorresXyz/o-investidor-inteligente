@@ -98,4 +98,4 @@ A atuação do assistente guiou-se estritamente pelas diretrizes de conduta do *
 
 ## 5. Link de Compartilhamento do Notebook
 
-* **Link de Acesso / Compartilhamento:** [Link de Compartilhamento do Notebook "O Investidor Inteligente"](https://notebooklm.google.com/notebook) *(Utilize o botão 'Compartilhar' / 'Share' no canto superior direito do painel do Gemini Notebook para gerar seu link de acesso compartilhado)*
+* **Link de Acesso / Compartilhamento:** [Link de Compartilhamento do Notebook "O Investidor Inteligente"](https://notebook.google.com/notebook/10d3643e-4909-47ea-8a19-a86f4e95b53b) *(Utilize o botão 'Compartilhar' / 'Share' no canto superior direito do painel do Gemini Notebook para gerar seu link de acesso compartilhado)*
